@@ -87,3 +87,4 @@ jobs:
         run: |
           echo "Someting went wrong"
           echo ${{ toJSON(github) }}
+          
